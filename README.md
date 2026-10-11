@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey there! 👋 I'm Diya Sajin
 
-<!--
-**diyasajin327/diyasajin327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Cybersecurity Student | NMAM Institute of Technology**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a cybersecurity student passionate about ethical hacking, information security, and security research. I enjoy exploring security concepts, understanding vulnerabilities, and building practical projects while continuously expanding my knowledge of cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 Currently pursuing my third year of B.Tech in Cybersecurity.
+- 🔐 Passionate about ethical hacking, information security, and cybersecurity research.
+- 🛠️ Exploring security tools and learning through hands-on projects.
+- 🌱 Continuously developing my technical skills and exploring new security concepts.
+- 🤝 Open to collaborating on cybersecurity projects and research.
+
+### 💻 Technical Interests
+
+- 🔐 Cybersecurity & Information Security
+- 🌐 Network & Web Application Security
+- 🔍 Ethical Hacking & Penetration Testing
+- 🧪 Security Research & Vulnerability Assessment
+- ⚙️ Security Automation
+- 🐧 Linux & Security Tools
+
+### 🛠️ Tools & Technologies
+
+- **Languages:** Python, C, Java
+- **Tools:** Git, GitHub, VS Code
+- **Platforms:** Linux, Windows
+
+### 🚀 Featured Projects
+
+🔹 **[Bidirectional IPC Pipes](https://github.com/diyasajin327/Bidirectional-IPC-Pipes)**
+
+A systems programming project exploring bidirectional inter-process communication using pipes.
+
+🔹 **[CyberShield](https://github.com/diyasajin327/CyberShield)**
+
+A password security project focused on checking password strength and generating passwords to encourage better password practices.
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyasajin327&show_icons=true&hide_border=true&theme=transparent)
+
+### 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/diya-sajin-428103388/)
+- 🐙 [GitHub](https://github.com/diyasajin327)
+
+---
+
+⭐ *Learning, building, and securing — one project at a time.*
